@@ -384,7 +384,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-towards-robust-real-world-multivariate-time-series-forecasting-a-unified-framework-for-dependency-asynchrony-and-missingness-was-accepted",
+            },},{id: "news-our-paper-towards-robust-real-world-multivariate-time-series-forecasting-a-unified-framework-for-dependency-asynchrony-and-missingness-was-accepted-to-iclr-2026",
           title: 'Our paper, “Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for...',
           description: "",
           section: "News",},{id: "news-our-paper-non-stationarity-in-the-embedding-space-of-time-series-foundation-models-was-accepted-to-the-tsalm-workshop-at-iclr-2026",
@@ -450,7 +450,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/CV_JMCHOI.v1.0.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -478,7 +478,14 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=d84sd9AAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/jinmyeongchoi", "_blank");
         },
       },{
         id: 'social-custom_social',
