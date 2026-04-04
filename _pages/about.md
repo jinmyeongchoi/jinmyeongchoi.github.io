@@ -22,9 +22,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-### Jinmyeong Choi
-Hello. I am Jinmyeong Choi, a master's student at the [Seoul National University Graduate School of Data Science](https://gsds.snu.ac.kr/), advised by [Taesup Kim](https://www.snu-laal.com/team).
+# Jinmyeong Choi
 
-I received a Bachelor of Arts in Economics, with a minor in Data Science for Humanities, from Seoul National University.
+Welcome! I’m Jinmyeong Choi, a master’s student at the [Graduate School of Data Science at Seoul National University](https://gsds.snu.ac.kr/), advised by [Taesup Kim](https://www.snu-laal.com/team).
 
-My research focuses on time series and representation learning.
+My research lies at the intersection of time series foundation models, time series forecasting, and representation learning. I study how complex statistical properties of time series are encoded in learned representations, with a particular focus on non-stationarity and robust adaptation in real-world settings.
+
+Outside of research, I enjoy swimming, running, and all kinds of sports, including futsal, basketball, badminton, and golf.
