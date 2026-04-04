@@ -29,3 +29,5 @@ Welcome! I’m Jinmyeong Choi, a master’s student at the [Graduate School of D
 My research lies at the intersection of time series foundation models, time series forecasting, and representation learning. I study how complex statistical properties of time series are encoded in learned representations, with a particular focus on non-stationarity and robust adaptation in real-world settings.
 
 Outside of research, I enjoy swimming, running, and all kinds of sports, including futsal, basketball, badminton, and golf.
+
+You can download my CV <a href="/CV_JMCHOI.v1.0.pdf" target="_blank" rel="noopener noreferrer">here</a>.
