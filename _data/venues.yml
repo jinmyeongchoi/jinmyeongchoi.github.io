@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#8B1E3F"
+
+"ICLR TSALM":
+  url: https://iclr.cc/virtual/2026/workshop/31939
+  color: "#C24E00"
