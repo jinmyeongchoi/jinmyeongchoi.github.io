@@ -26,7 +26,7 @@ latest_posts:
 
 Welcome! I’m Jinmyeong Choi, a master’s student at the [Graduate School of Data Science at Seoul National University](https://gsds.snu.ac.kr/), advised by [Taesup Kim](https://www.snu-laal.com/team).
 
-I was also fortunate to spend time as a visiting scholar at Carnegie Mellon University, where I had the valuable opportunity to work as a research intern at the [Auton Lab](https://autonlab.org/) with [Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/).
+I was also fortunate to spend time as a visiting scholar at Carnegie Mellon University, where I had the valuable opportunity to work as a research intern at the [Auton Lab](https://autonlab.org/) advised by Prof. [Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/).
 
 My research lies at the intersection of time series foundation models, time series forecasting, and representation learning. I study how complex statistical properties of time series are encoded in learned representations, with a particular focus on non-stationarity and robust adaptation in real-world settings.
 
