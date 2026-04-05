@@ -384,7 +384,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-towards-robust-real-world-multivariate-time-series-forecasting-a-unified-framework-for-dependency-asynchrony-and-missingness-was-accepted-to-iclr-2026",
+            },},{id: "news-i-began-my-master-s-degree-at-seoul-national-university",
+          title: 'I began my master’s degree at Seoul National University.',
+          description: "",
+          section: "News",},{id: "news-i-joined-carnegie-mellon-university-as-a-visiting-scholar",
+          title: 'I joined Carnegie Mellon University as a visiting scholar.',
+          description: "",
+          section: "News",},{id: "news-i-started-a-research-internship-at-the-auton-lab",
+          title: 'I started a research internship at the Auton Lab.',
+          description: "",
+          section: "News",},{id: "news-our-paper-towards-robust-real-world-multivariate-time-series-forecasting-a-unified-framework-for-dependency-asynchrony-and-missingness-was-accepted-to-iclr-2026",
           title: 'Our paper, “Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for...',
           description: "",
           section: "News",},{id: "news-our-paper-non-stationarity-in-the-embedding-space-of-time-series-foundation-models-was-accepted-to-the-tsalm-workshop-at-iclr-2026",
