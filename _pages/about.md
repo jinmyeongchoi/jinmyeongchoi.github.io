@@ -22,7 +22,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-# Jinmyeong Choi
+# Jinmyeong Choi / 최진명
 
 Welcome! I’m Jinmyeong Choi, a master’s student at the [Graduate School of Data Science at Seoul National University](https://gsds.snu.ac.kr/), advised by Prof. [Taesup Kim](https://www.snu-laal.com/team).
 
