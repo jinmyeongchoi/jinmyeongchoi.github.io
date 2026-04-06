@@ -24,6 +24,8 @@ latest_posts:
 ---
 # Jinmyeong Choi / 최진명
 
+Email: jinmyeongchoi [at] snu [dot] ac [dot] kr
+
 Welcome! I’m Jinmyeong Choi, a master’s student at the [Graduate School of Data Science at Seoul National University](https://gsds.snu.ac.kr/), advised by Prof. [Taesup Kim](https://www.snu-laal.com/team).
 
 I was also fortunate to spend time as a visiting scholar at Carnegie Mellon University, where I had the opportunity to work as a research intern at the [Auton Lab](https://autonlab.org/) with Prof. [Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/).
