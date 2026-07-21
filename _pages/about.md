@@ -34,4 +34,4 @@ My research lies at the intersection of time series foundation models, time seri
 
 Outside of research, I enjoy swimming, running, and all kinds of sports, including futsal, soccer, basketball, badminton, and golf.
 
-You can download my CV <a href="/CV_JMCHOI.v1.0.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+You can download my CV <a href="/Jinmyeong_Choi_CV.v2.5.pdf" target="_blank" rel="noopener noreferrer">here</a>.
