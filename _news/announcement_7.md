@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "[Towards Universal Representation-Based Process Control] was accepted to the Asilomar Conference on Signals, Systems, and Computers 2026
+Our paper, "Towards Universal Representation-Based Process Control" was accepted to the Asilomar Conference on Signals, Systems, and Computers 2026! 
