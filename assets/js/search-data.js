@@ -32,7 +32,7 @@ ninja.data = [{
           title: 'Our paper, “Non-Stationarity in the Embedding Space of Time Series Foundation Models,” was...',
           description: "",
           section: "News",},{id: "news-our-paper-towards-universal-representation-based-process-control-was-accepted-to-the-asilomar-conference-on-signals-systems-and-computers-2026",
-          title: 'Our paper, “[Towards Universal Representation-Based Process Control] was accepted to the Asilomar Conference...',
+          title: 'Our paper, “Towards Universal Representation-Based Process Control” was accepted to the Asilomar Conference...',
           description: "",
           section: "News",},{
         id: 'social-cv',
