@@ -39,7 +39,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/Jinmyeong_Choi_CV.v2.5.pdf", "_blank");
+          window.open("/CV_Jinmyeong_CHOI.v4.1.pdf", "_blank");
         },
       },{
         id: 'social-email',
