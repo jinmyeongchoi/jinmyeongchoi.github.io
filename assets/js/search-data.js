@@ -34,6 +34,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-towards-universal-representation-based-process-control-was-accepted-to-the-asilomar-conference-on-signals-systems-and-computers-2026",
           title: 'Our paper, “Towards Universal Representation-Based Process Control” was accepted to the Asilomar Conference...',
           description: "",
+          section: "News",},{id: "news-our-new-paper-interweaving-marginals-into-multivariate-sample-paths-training-free-dependence-construction-for-probabilistic-time-series-foundation-models-is-now-available-on-arxiv",
+          title: 'Our new paper, “Interweaving Marginals into Multivariate Sample Paths: Training-Free Dependence Construction for...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
