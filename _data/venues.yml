@@ -18,3 +18,7 @@
 
 "Under Review":
   color: "#FF0000"
+
+"Preprint":
+  url: https://arxiv.org/
+  color: "#B31B1B"
