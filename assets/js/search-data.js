@@ -40,6 +40,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-asilomar-2026-paper-towards-universal-representation-based-process-control-is-now-available-on-arxiv",
           title: 'Our Asilomar 2026 paper, “Towards Universal Representation-Based Process Control,” is now available on...',
           description: "",
+          section: "News",},{id: "news-our-paper-interweaving-marginals-into-multivariate-sample-paths-training-free-dependence-construction-for-probabilistic-time-series-foundation-models-was-accepted-to-the-fmts-workshop-at-neurips-2026",
+          title: 'Our paper, “Interweaving Marginals into Multivariate Sample Paths: Training-Free Dependence Construction for Probabilistic...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
