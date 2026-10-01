@@ -43,6 +43,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-interweaving-marginals-into-multivariate-sample-paths-training-free-dependence-construction-for-probabilistic-time-series-foundation-models-was-accepted-to-the-fmts-workshop-at-neurips-2026",
           title: 'Our paper, “Interweaving Marginals into Multivariate Sample Paths: Training-Free Dependence Construction for Probabilistic...',
           description: "",
+          section: "News",},{id: "news-coming-soon-our-new-preprint-when-time-series-foundation-models-fail-under-cross-channel-dependence",
+          title: 'Coming soon: our new preprint, “When Time Series Foundation Models Fail Under Cross-Channel...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
