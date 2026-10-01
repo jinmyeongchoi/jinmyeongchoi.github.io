@@ -22,3 +22,7 @@
 "Preprint":
   url: https://arxiv.org/
   color: "#B31B1B"
+
+"NeurIPS FMTS":
+  url: https://fmts-workshop.github.io/
+  color: "#005F73"
